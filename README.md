@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Srikar+Punna+%E2%80%94+GenAI+Engineer;I+ship+production+AI.+Not+prototypes.;Forward+Deployed+Engineer+%7C+Full-Stack+AI;Targeting%3A+Google+%7C+Palantir+%7C+NVIDIA+%7C+Anthropic" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Srikar+Punna+%E2%80%94+GenAI+Engineer;I+ship+production+AI.+Not+prototypes.;Forward+Deployed+Engineer+%7C+Full-Stack+AI" alt="Typing SVG" />
 
 <br/>
 
