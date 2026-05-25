@@ -23,8 +23,6 @@ Not demos. Not notebooks. **Production systems** — with audit trails, complian
 In under 2 years at **Xpanse Software** (Freedom Mortgage ecosystem), I've operated as a **Forward Deployed Engineer**: embed with the business, run discovery, define architecture, build, ship, maintain. Repeat.
 
 > *"His consistency and attention to detail helped move the work forward in a meaningful way."* — Narender, Xpanse
->
-> *"Great work on the callback violation POC! Your speed and collaboration were amazing."* — Tina Bontrager, Xpanse
 
 **What I bring to a FAANG/top-tier team:**
 - Already done the FDE job — embedding with non-technical stakeholders, translating ambiguous requirements into agentic systems, owning end-to-end delivery
