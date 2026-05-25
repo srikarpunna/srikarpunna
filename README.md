@@ -30,7 +30,6 @@ In under 2 years at **Xpanse Software** (Freedom Mortgage ecosystem), I've opera
 - I build on weekends because I genuinely can't stop — [600+ daily users](https://resume-agents.vercel.app) on a side project I shipped solo proves that
 
 **Open to:** Forward Deployed Engineer · GenAI Engineer · AI/ML Engineer · Full-Stack AI Engineer  
-**Targeting:** Google Cloud · Palantir · NVIDIA · Anthropic · Scale AI · Rocket Companies  
 **Status:** H-1B Active · No sponsorship needed · Farmington Hills, MI · Remote OK · Open to relocation
 
 ---
